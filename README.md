@@ -1,6 +1,6 @@
 # magnaprobe-pytools
 
-Lightweight Python tools for parsing, quality-controlling, and visualizing (Magnaprobe)[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR023559] snow depth data
+Lightweight Python tools for parsing, quality-controlling, and visualizing (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR023559)[Magnaprobe]snow depth data
 
 ## Overview
 
