@@ -5,3 +5,10 @@ Lightweight Python tools for parsing, quality-controlling, and visualizing [Magn
 ## Overview
 
 `magnaprobe-pytools` is a small collection of Python utilities for working with Magnaprobe snow depth measurements exported.
+
+## Features
+
+The tools will support:
+
+- Exploratory data analysis (EDA)
+
