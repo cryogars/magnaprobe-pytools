@@ -10,5 +10,5 @@ Lightweight Python tools for parsing, quality-controlling, and visualizing [Magn
 
 The tools will support:
 
-- Exploratory data analysis (EDA)
+- Exploratory data analysis (EDA): Generate histograms, summary statistics, and depth distributions
 
