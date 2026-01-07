@@ -14,4 +14,5 @@ The tools will support:
 
 ## Usage
 
+This tool is designed to run as a script or as a Streamlit web app.
 
